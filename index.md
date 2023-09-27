@@ -1,5 +1,3 @@
 ---
-title: Welcome to my blog
-#hello
-
+title: Welcome to Reo's blog
 ---
